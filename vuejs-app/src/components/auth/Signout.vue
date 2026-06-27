@@ -1,5 +1,6 @@
 <template></template>
 <script setup>
+
 import { apiSignOut } from "@/functions/api/auth";
 import { onMounted } from "vue";
 import { useRouter } from "vue-router";

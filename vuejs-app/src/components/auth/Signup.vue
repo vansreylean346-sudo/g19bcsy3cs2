@@ -16,6 +16,7 @@
                   <span class="fas fa-user"></span>
                 </div>
               </div>
+              
               <div class="invalid-feedback">
                 {{ userError.name }}
               </div>
